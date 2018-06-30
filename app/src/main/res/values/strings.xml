@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CursoFirebase</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="facebook_app_id">2156661731228295</string>
+    <string name="fb_login_protocol_scheme">fb2156661731228295</string>
+</resources>
